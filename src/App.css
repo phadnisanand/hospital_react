@@ -1,0 +1,29 @@
+.App {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  margin: 20px;
+}
+
+.appointments-table {
+  margin-top: 20px;
+}
+
+.appointments-table table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.appointments-table th, .appointments-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.appointments-table th {
+  background-color: #f2f2f2;
+}
